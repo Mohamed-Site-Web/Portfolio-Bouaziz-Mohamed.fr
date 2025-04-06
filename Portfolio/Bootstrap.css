@@ -1,0 +1,13 @@
+.text-justify {
+    text-align : justify;
+    font-family : "Lorem ipsum";
+    }
+.roundedfloat-start {
+    max-width: 100%;
+    height: auto
+        }
+    
+.roundedfloat-end {
+    max-width: 100%;
+    height: auto
+            }
